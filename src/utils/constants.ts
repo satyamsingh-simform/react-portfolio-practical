@@ -68,6 +68,14 @@ export const navItems=[
   {id:"contact",label:"Contact"}
 ]
 
+export const links=[
+  {name:"About",id:"about"},
+  {name:"Skills",id:"skills"},
+  {name:"Projects",id:"work"},
+  {name:"Education",id:"education"},
+  {name:"Contact",id:"contact"}
+]
+
 export const personalData={
   name:'Satyam Singh',
   role:'MERN Stack Developer',
